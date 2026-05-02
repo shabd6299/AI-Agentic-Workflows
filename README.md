@@ -9,7 +9,7 @@ This project is an autonomous AI Agent built using **n8n** that manages business
 * **AI Vision:** Real-time image analysis using Vision LLMs.
 
 ## 📺 Demo
-[Watch the AI Agent in Action]((https://drive.google.com/file/d/1PtHHLapjCCWlABetddtVJ-utYi-5OnHp/view?usp=drivesdk)) 
+[Watch the AI Agent in Action](https://drive.google.com/file/d/1PtHHLapjCCWlABetddtVJ-utYi-5OnHp/view?usp=drivesdk) 
 
 ## 🛠️ Tech Stack
 * **Automation:** n8n (Self-hosted via Docker)
